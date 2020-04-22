@@ -1,0 +1,294 @@
+Krakow
+malopolskie
+wojewodzkie
+762000
+42.3 
+149000
+Jest to miasto na prawach powiatu le¿¹ce w po³udniowej Polsce
+Nowy Sacz
+malopolskie
+powiatowe
+84000
+40.4
+20000
+Trzecie pod wzglêdem liczby mieszkañców i powierzchni miasto w Malopolsce
+Tarnow
+malopolskie
+powiatowe
+110000
+42.9
+23000
+Miasto lezace nad rzekami Bia³a i Dunajcem
+Warszawa
+mazowieckie
+wojewodzkie
+1748000
+42.7
+330000
+Miasto bedace obecna stolica Polski
+Torun
+kujawsko-pomorskie
+wojewodzkie
+202000
+41.8
+44000
+Miejsce urodzin Mikolaja Kopernika
+Wroclaw
+dolnoslaskie
+wojewodzkie
+637000
+42.6
+120000
+Miasto na prawach powiatu le¿¹ce w poludniowo-zachodniej Polsce
+Szczecin
+zachodniopomorskie
+wojewodzkie
+405000
+43
+82000
+Miasto na prawach powiatu le¿¹ce w polnocno-zachodniej Polsce
+Nowogrodziec
+dolnoslaskie
+gminne
+4000
+40.3
+998
+Jest siedziba gminy miejsko-wiejskiej Nowogrodziec
+Bystrzyca Klodzka
+dolnoslaskie
+gminne
+10000
+42.9
+2000
+Miasto lezace w poludniowo-zachodniej Polsce
+Myslenice
+malopolskie
+powiatowe
+18000
+40.3
+5000
+Miasto lezace w poludniowej Polsce ok.30 km od Krakowa
+Niepolomice
+malopolskie
+gminnne
+11000
+36.9
+3000
+Miasto lezace w poludniowej Polsce ok.10 km od Krakowa
+Lodz
+lodzkie
+wojewodzkie
+698000
+44.7
+130000
+Miasto na prawach powiatu le¿¹ce w centralnej Polsce
+Lowicz
+lodzkie
+powiatowe
+29000
+41.7
+6300
+Miasto le¿¹ce w centralnej Polsce i jest siedzib¹ gminy miejskiej Lowicz
+Pabianice
+lodzkie
+powiatowe
+120000
+42.8
+25000
+Miasto le¿¹ce w centralnej Polsce,jest siedziba gminy miejskiej Pab
+Kamiensk
+lodzkie
+gminne
+3000
+39.7
+1000
+Miasto le¿¹ce w centralnej Polsce,jest siedziba gminy miejsko-wiejskiej Kamieñsk
+Lask
+gminne
+lodzkie
+18000
+42.3
+4000
+Miasto le¿¹ce w centralnej Polsce,jest siedzib¹ gminy miejsko-wiejskiej Lask
+Zamosc
+lubelskie
+powiatowe
+65000
+41.5
+14000
+Miasto na prawach powiatu le¿¹ce w wschodniej Polsce
+Chelm
+lubelskie
+powiatowe
+64000
+42.4
+14000
+Miasto na prawach powiatu le¿¹ce w wschodniej Polsce,jest siedzib¹ gminy miejskiej Chelm
+Bychawa
+lubelskie
+gminne
+5000
+40.7
+1200
+Jest siedzib¹ gminy miejsko-wiejskiej Bychawa
+Naleczow
+lubelskie
+gminne
+4000
+44.3
+800
+Jest siedzib¹ gminy miejsko-wiejskiej Naleczow
+Szczebrzeszyn
+lubelskie
+gminne
+5100
+41.1
+1200
+Jest siedziba gminy miejsko-wiejskiej Szczebrzeszyn
+Zielona Gora
+lubuskie
+wojewodzkie
+139000
+41.7
+30000
+Jest to miasto na prawach powiatu le¿¹ce w zachodniej Polsce
+Czerwiensk
+lubuskie
+gminne
+4100
+39.4
+1000
+Jest siedzib¹ gminy miejsko-wiejskiej Czerwieñsk
+Witnica
+lubuskie
+gminne
+6900
+39.2
+1700
+Nalezy do powiatu gorzowskiego,jest siedzib¹ gminy miejsko-wiejskiej Witnica
+Swiebodzin
+lubuskie
+powiatowe
+21000
+40.4
+5000
+Jest siedziba gminy miejsko-wiejskiej Swiebodzin
+Zagan
+lubuskie
+powiatowe
+26000
+41.3
+5700
+Jest siedzib¹ gminy miejskiej Zagan
+Opole
+opolskie
+wojewodzkie
+120000
+43.3
+22000
+Jest to miasto na prawach powiatu le¿¹ce w po³udniowo-zachodniej Polsce
+Glogowek
+opolskie
+gminne
+5600
+40.1
+1300
+Jest siedzib¹ gminy miejsko-wiejskiej Glogowek
+Kluczbork
+opolskie
+powiatowe
+24000
+42.4
+5000
+Jest siedzib¹ gminy miejsko-wiejskiej Kluczbork
+Prudnik
+opolskie
+powiatowe
+21000
+42.7
+4600
+Jest siedzib¹ gminy miejsko-wiejskiej Prudnik
+Brzeg
+opolskie
+powiatowe
+36000
+42.1
+8000
+Jest siedzib¹ gminy miejskiej Brzeg
+Kielce
+swietokrzyskie
+wojewodzkie
+200000
+43.1
+39000
+Jest to miasto na prawach powiatu le¿¹ce w po³udniowo-wschodniej Polsce
+Sandomierz
+swietokrzyskie
+powiatowe
+25000
+42.5
+5000
+brak uwag
+Koprzywnica
+swietokrzyskie
+gminne
+3000
+41.5
+600
+Jest siedzib¹ gminy miejsko-wiejskiej Koprzywnica
+Ozarow
+swietokrzyskie
+gminne
+4600
+40.6
+1000
+Jest siedzib¹ gminy miejsko-wiejskiej Ozarow
+Opatow
+swietokrzyskie
+powiatowe
+6500
+43.1
+1400
+Jest siedzib¹ gminy miejsko-wiejskiej Opatow
+Rzeszow
+podkarpackie
+wojewodzkie
+190000
+40.2
+43000
+Jest to miasto na prawach powiatu le¿¹ce w po³udniowo-wschodniej Polsce
+Tarnobrzeg
+podkarpackie
+powiatowe
+48000
+42.5
+10000
+Jest siedzib¹ gminy miejskiej Tarnobrzeg
+Przemysl
+podkarpackie
+powiatowe
+62000
+42.6
+13000
+Jest to miasto na prawach powiatu le¿¹ce w po³udniowo-wschodniej Polsce,gmina Przemysl
+Jedlicze
+podkarpackie
+gminne
+6000
+41.0
+1300
+Jest siedzib¹ gminy miejsko-wiejskiej Jedlicze
+Kanczuga
+podkarpackie
+gminne
+3200
+38.5
+1000
+Jest siedzib¹ gminy miejsko-wiejskiej Kanczuga
+Zagorz
+podkarpackie
+gminne
+6000
+40.3
+1200
+Jest siedzib¹ gminy miejsko-wiejskiej Zagorz
