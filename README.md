@@ -6,8 +6,10 @@ A place to insert simple C tasks - improving skills
 2. Calculator: *, /, +, -, ^, sqrt, % e.t.c.
 3. City database - file operations
 4. Basics 1
-    * 01. Hello World
-    * 02. Formatting specifiers
-    * 03. Variables
+     1. Hello World
+     2. Formatting specifiers
+     3. Variables
+     4. <math.h> library
+     5. if - else
 
 More tasks will be added soon.
