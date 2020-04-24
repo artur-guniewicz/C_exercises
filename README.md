@@ -11,5 +11,8 @@ A place to insert simple C tasks - improving skills
      3. Variables
      4. <math.h> library
      5. if - else
+     6. Increment
+     7. while loop
+     8. Dividers of numbers
 
 More tasks will be added soon.
