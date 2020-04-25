@@ -14,5 +14,8 @@ A place to insert simple C tasks - improving skills
      6. Increment
      7. while loop
      8. Dividers of numbers
+     9. scanf function
+     10. arrays
+     11. multidimensional arrays
 
 More tasks will be added soon.
