@@ -17,5 +17,8 @@ A place to insert simple C tasks - improving skills
      9. scanf function
      10. arrays
      11. multidimensional arrays
+     12. bubble sort
+     13. functions
+     14. usage of sizeof()
 
 More tasks will be added soon.
