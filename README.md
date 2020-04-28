@@ -7,18 +7,20 @@ A place to insert simple C tasks - improving skills
 3. City database - file operations
 4. Basics 1
      1. Hello World
-     2. Formatting specifiers
-     3. Variables
+     2. formatting specifiers
+     3. variables
      4. <math.h> library
      5. if - else
-     6. Increment
+     6. increment
      7. while loop
-     8. Dividers of numbers
+     8. dividers of numbers
      9. scanf function
      10. arrays
      11. multidimensional arrays
      12. bubble sort
      13. functions
      14. usage of sizeof()
+     15. declarations & definitions of functions
+     16. Greatest Common Divisor (GCD)
 
 More tasks will be added soon.
