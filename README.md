@@ -22,5 +22,8 @@ A place to insert simple C tasks - improving skills
      14. usage of sizeof()
      15. declarations & definitions of functions
      16. Greatest Common Divisor (GCD)
+     17. macros
+     18. pointers
+     19. pointers in functions
 
 More tasks will be added soon.
