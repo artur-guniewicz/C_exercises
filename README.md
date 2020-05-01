@@ -25,5 +25,10 @@ A place to insert simple C tasks - improving skills
      17. macros
      18. pointers
      19. pointers in functions
+     20. going out of array
+     21. const - the value of the address will not change
+     22. explicit casting and type conversions
+     23. usage of memcpy()
+     24. allocation - usage of malloc()
 
 More tasks will be added soon.
