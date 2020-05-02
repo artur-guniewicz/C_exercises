@@ -30,5 +30,9 @@ A place to insert simple C tasks - improving skills
      22. explicit casting and type conversions
      23. usage of memcpy()
      24. allocation - usage of malloc()
+     25. usage of strlen()
+     26. usage of typedef
+     27. more comlicated casting and usage of pointers - 1
+     28. more comlicated casting and usage of pointers - 2
 
 More tasks will be added soon.
