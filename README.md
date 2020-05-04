@@ -34,5 +34,11 @@ A place to insert simple C tasks - improving skills
      26. usage of typedef
      27. more comlicated casting and usage of pointers - 1
      28. more comlicated casting and usage of pointers - 2
+     29. usage of struct
+     30. using struct to implement multiplying
+     31. using struct to implement lists
+     32. add to list - 1
+     33. add to list - 2
+     34. operations on lists
 
 More tasks will be added soon.
