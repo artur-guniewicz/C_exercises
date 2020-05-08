@@ -41,5 +41,9 @@ A place to insert simple C tasks - improving skills
      33. add to list - 2
      34. operations on lists
      35. operations on trees - including: add, three ways of print, rotate left and right, free
+     36. write to file
+     37. write and read from file
+     38. entering user data into the file
+     39. basic usage of gnuplot
 
 More tasks will be added soon.
